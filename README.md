@@ -19,9 +19,17 @@ cd init_python_b1
 
 ```console
 conda create -n initPython383 python=3.8.3
+```
+
+Una vez ha analizado las dependencias, aceptamos la creación del entorno.
+
+Ahora activamos el entorno e instalamos resto de paquetes. 
+
+```console
 conda activate initPython383
 python -m pip install -r requirements.txt
 
 # publica el kernel de python
 python -m ipykernel install --user --name initPython383 --display-name "initPython383"
 ```
+
