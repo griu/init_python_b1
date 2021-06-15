@@ -33,3 +33,9 @@ python -m pip install -r requirements.txt
 python -m ipykernel install --user --name initPython383 --display-name "initPython383"
 ```
 
+Si necesitas iniciar sesión des de una máquina local (no un servidor).
+
+```console
+jupyter notebook
+```
+
