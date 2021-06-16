@@ -8,6 +8,8 @@ Visita la siguiente página en [Introducción Curso de Python](https://github.co
 
 ## Preparación entorno Jupyter local
 
+Alternativamente, puedes preparar tu entorno en un servidor de Jupyter o en tu PC con Anaconda.
+
 ### Descarga des de github el repositorio del curso.
 
 ```console
