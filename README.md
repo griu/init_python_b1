@@ -1,10 +1,10 @@
 # Iniciación a Python Bloque 1
 
-Dos opciones alternativas para realizar el curo, o bién, des de Colab, o bién, des de Jupyter Notebooks en local.
+Dos opciones alternativas para realizar el curso, o bién, des de Colab, o bién, des de Jupyter Notebooks en local.
 
 ## Preparación entorno Colab
 
-Visita la siguiente página en [GitHub](https://github.com/griu/init_python_b1) y accede a cada uno de los notebooks del curso que podràs abrir directamente en Colab.
+Visita la siguiente página en [Introducción Curso de Python](https://github.com/griu/init_python_b1/blob/master/modulo1_tema4_Py.ipynb) y accede al notebook des de Colab en el enlace que econtrarás dentro del documento abierto. No necesita ningún tipo de instalación, sólo un usuario de gmail.
 
 ## Preparación entorno Jupyter local
 
@@ -39,3 +39,4 @@ Si necesitas iniciar sesión des de una máquina local (no un servidor).
 jupyter notebook
 ```
 
+Puedes empezar el curso des del notebook llamado:  **"modulo1_tema4_Py.ipynb"**.
